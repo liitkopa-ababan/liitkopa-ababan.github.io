@@ -22,7 +22,7 @@
 
 
 ![sheesh](https://toyotagazooracing.com/pages/contents/jp/gr/assets/img/supra/gt4/modal/pic_graphic04_pc.jpg))
-! [sheesh](https://toyotagazooracing.com/pages/contents/jp/gr/assets/img/supra/gt4/pic_hdg_pc.jpg)
+![sheesh](https://toyotagazooracing.com/pages/contents/jp/gr/assets/img/supra/gt4/pic_hdg_pc.jpg)
 
 
 
@@ -39,3 +39,4 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nvedr1AeQt8?si=pzOLgPbQHUjfCLJH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UPAZq74amLI?si=xAWAmVLlmPyZimBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
